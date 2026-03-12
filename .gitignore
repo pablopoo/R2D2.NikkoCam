@@ -1,0 +1,7 @@
+# Local IDE state
+.vs/
+
+# Build outputs
+bin/
+obj/
+artifacts/
